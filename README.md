@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Curlee. I'm the Product Marketing Manager for SonarQube.
 - 👀 I’m interested in electronic music, classic cars, ice hockey, and brewing beer.
-- 🌱 I’m currently learning how to use GitHub Actions with SonarQube
+- 🌱 I’m currently learning how to use GitHub Actions with SonarQube.
 - 💞️ I’m looking to collaborate on ... <I hadn't considered this question, so anything really>
 - 📫 You can reach me by email at robert.curlee@sonarsource.com
 - 😄 Pronouns: he/him

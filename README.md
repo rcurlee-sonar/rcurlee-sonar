@@ -5,10 +5,10 @@
 - 📫 You can reach me by email at robert.curlee@sonarsource.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Beer yeast is domesticated, meaning it can't survive on its own in the wild.
--     Also, the difference between ale and lager is not top fermenting vs. bottom fermenting,
--     nor is it temperature they "thrive" at, as some claim (although it's true that most lagers
--     are fermented colder than most ales). The difference is that they're different species of yeast,
--     Saccharomyces cerevisiae (ale) and Saccharomyces pastorianus (lager).
+- Also, the difference between ale and lager is not top fermenting vs. bottom fermenting,
+- nor is it temperature they "thrive" at, as some claim (although it's true that most lagers
+- are fermented colder than most ales). The difference is that they're different species of yeast,
+- Saccharomyces cerevisiae (ale) and Saccharomyces pastorianus (lager).
 
 <!---
 rcurlee-sonar/rcurlee-sonar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
